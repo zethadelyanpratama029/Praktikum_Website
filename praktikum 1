@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html> lang="en">
+      <head>
+          <title>Zetha delyan pratama</title>
+      </head>
+      <body>
+          <script language="javascript">
+          document.write("belajar pemrograman javascript!")
+          </script>
+      <?body>
+</html>
